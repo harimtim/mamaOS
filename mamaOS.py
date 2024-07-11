@@ -6,7 +6,7 @@ import os
 from email.message import EmailMessage
 from jinja2 import Template
 
-# Html Structure
+test
 
 HTML = """<!DOCTYPE html>
 <html lang="en">
